@@ -1,4 +1,4 @@
-package com.example.haircut_scheduler_api.Service;
+package com.example.haircut_scheduler_api.utils;
 
 import java.time.LocalTime;
 
