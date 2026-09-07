@@ -2,6 +2,7 @@ package com.example.haircut_scheduler_api.Service;
 
 import com.example.haircut_scheduler_api.Infrastructure.Entity.HaircutScheduler;
 import com.example.haircut_scheduler_api.Infrastructure.Repository.HaircutSchedulerRepository;
+import com.example.haircut_scheduler_api.utils.TimeRange;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
